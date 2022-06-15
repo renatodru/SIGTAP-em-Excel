@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202206
+101Estratégia de Saúde da Família                                                                                          202206
+102Estratégias de Agentes Comunitário de Saúde                                                                             202206
+103Serviço de Atendimento Móvel de Urgências                                                                               202206
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202206
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202206
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202206
+107Serviço de Atenção a Saúde Auditiva                                                                                     202206
+108Serviço de Atenção a Saúde do Trabalhador                                                                               202206
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202206
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202206
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202206
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     202206
+113Serviço de Atenção Domiciliar                                                                                           202206
+114Serviço de Atenção em Saúde Bucal                                                                                       202206
+115Serviço de Atenção Psicossocial                                                                                         202206
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202206
+117Serviço de Cirurgia Reparadora                                                                                          202206
+118Serviço de Cirurgia Torácica                                                                                            202206
+119Serviço de Controle de Tabagismo                                                                                        202206
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202206
+121Diagnóstico por Imagem                                                                                                  202206
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202206
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202206
+124Serviço de Endocrinologia                                                                                               202206
+125Serviço de Farmácia                                                                                                     202206
+126Serviço de Fisioterapia                                                                                                 202206
+127Serviço de Atenção à Obesidade                                                                                          202206
+128Serviço de Hemoterapia                                                                                                  202206
+129Servico de Laboratório de Histocompatibilidade                                                                          202206
+130Atenção à Doença Renal Crônica                                                                                          202206
+131Serviço de Oftalmologia                                                                                                 202206
+132Serviço de Oncologia                                                                                                    202206
+133Serviço de Pneumologia                                                                                                  202206
+134Serviço de Práticas Integrativas e Complementares                                                                       202206
+135Serviço de Reabilitação                                                                                                 202206
+136Serviço de Suporte Nutricional                                                                                          202206
+137Serviço de Telemedicina                                                                                                 202206
+138Serviço de Traumato-Ortopedia                                                                                           202206
+139Serviço de Triagem Neonatal                                                                                             202206
+140Serviço de Urgência e Emergência                                                                                        202206
+141Serviço de Vigilância em Saúde                                                                                          202206
+142Serviço de Endoscopia                                                                                                   202206
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202206
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202206
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202206
+146Serviço de Videolaparoscopia                                                                                            202206
+147Serviço de Apoio a Saúde da Família                                                                                     202206
+148Hospital-Dia                                                                                                            202206
+149Transplante                                                                                                             202206
+150Cirurgia Vascular                                                                                                       202206
+151Medicina Nuclear                                                                                                        202206
+152Atenção à Saúde da População Indígena                                                                                   202206
+153Atenção Especializada no Processo Transexualizador                                                                      202206
+154Serviço de Banco de Tecidos                                                                                             202206
+155Serviço de Traumatologia  Ortopedia                                                                                     202206
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      202206
+157Serviço de Laboratorio de Protese Dentaria                                                                              202206
+158Serviço de Atenção Integral em Hanseniase                                                                               202206
+159Atenção Primária                                                                                                        202206
+160Teleconsultoria                                                                                                         202206
+161Consultório na Rua                                                                                                      202206
+162Serviço de Terapia Intensiva                                                                                            202206
+163Serviço de Cuidados Intermediários                                                                                      202206
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202206
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202206
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202206
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202206
+168Atenção Às Pessoas com Doenças Raras                                                                                    202206
+169Serviço de Atenção em Urologia                                                                                          202206
+170Comissões e Comitês                                                                                                     202206
+173Logística de Imunobiológicos                                                                                            202206
+174Imunização                                                                                                              202206

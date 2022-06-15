@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           202206
+003Admite longa permanência                                                                            202206
+004Admite permanência à maior                                                                          202206
+005Admite liberação de quantidade na AIH                                                               202206
+006CNRAC                                                                                               202206
+007Permanência por dia                                                                                 202206
+008Não permite mudança de procedimento                                                                 202206
+009Exige CNS                                                                                           202206
+011Permite alta direta de UTI                                                                          202206
+012Exige idade no BPA (Consolidado)                                                                    202206
+013Verifica habilitação de terceiro                                                                    202206
+014Admite APAC de Continuidade                                                                         202206
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202206
+017Exige Informação da OPM                                                                             202206
+020Monitoramento do CEO                                                                                202206
+021Não Exige CBO                                                                                       202206
+022Exige registro na APAC de dados complementares                                                      202206
+023Registro no SISCOLO                                                                                 202206
+024Registro no SISPRENATAL                                                                             202206
+025Registro no SISMAMA                                                                                 202206
+026Registro de Procedimentos Secundário Compativel                                                     202206
+029Admite período maior para a apresentação                                                            202206
+033APAC com validade fixa de 03 competências                                                           202206
+034Não exige CNS                                                                                       202206
+036Exige Autorização                                                                                   202206
+037Exige CNPJ do Fornecedor                                                                            202206
+038Exige Serviço/Classificação                                                                         202206
+040Registro no SISCAN                                                                                  202206
+041APAC com validade fixa de 12 competências                                                           202206
+042Não Admite Liberação de Crítica de Idade                                                            202206
+043Exige registro de CID de causas associadas                                                          202206
+044Cirurgias Eletivas                                                                                  202206
+045Diárias de Leitos Complementares                                                                    202206
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202206
+047Autorização com limite máximo de 6 meses.                                                           202206
+048Exige CID                                                                                           202206
+049Permite Informação de Equipe Cirúrgica                                                              202206
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     202206

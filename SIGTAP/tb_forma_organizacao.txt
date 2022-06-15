@@ -1,0 +1,393 @@
+010101Educação em saúde                                                                                   202206
+080301Deslocamento/Ajuda de custo                                                                         202206
+020101Coleta de material por meio de punção/biópsia                                                       202206
+020201Exames bioquimicos                                                                                  202206
+020301Exames citopatológicos                                                                              202206
+020401Exames radiológicos da cabeça e pescoço                                                             202206
+020501Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               202206
+020601Tomografia da cabeça, pescoço e coluna vertebral                                                    202206
+020701RM da cabeça, pescoço e coluna vertebral                                                            202206
+020801Aparelho cardiovascular                                                                             202206
+020901Aparelho digestivo                                                                                  202206
+021001Exames radiológicos de vasos sangüíneos e linfáticos                                                202206
+021101Diagnóstico em angiologia                                                                           202206
+021201Exames do doador/receptor                                                                           202206
+021301Exames relacionados a doenças e agravos de notificação compulsória                                  202206
+021401Teste realizado fora da estrutura de laboratório                                                    202206
+030101Consultas médicas/outros profissionais  de nivel superior                                           202206
+030201Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                202206
+030301Tratamento de doenças infecciosas e parasitárias                                                    202206
+030401Radioterapia                                                                                        202206
+030501Tratamento dialítico                                                                                202206
+030601Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 202206
+030701Dentística                                                                                          202206
+030801Traumatismos                                                                                        202206
+030901Terapia nutricional                                                                                 202206
+031001Parto e nascimento                                                                                  202206
+040101Pequenas cirurgias                                                                                  202206
+040201Cirurgia de tireóide e paratireóide                                                                 202206
+040301Trauma e anomalias do desenvolvimento                                                               202206
+040401Cirurgia das vias aéreas superiores e do pescoço                                                    202206
+040501Palpebras e vias lacrimais                                                                          202206
+040601Cirurgia cardiovascular                                                                             202206
+040701Esôfago, estômago e duodeno                                                                         202206
+040801Cintura escapular                                                                                   202206
+040901Rim, ureter e bexiga                                                                                202206
+041001Mama                                                                                                202206
+041101Parto                                                                                               202206
+041201Traqueia e brônquios                                                                                202206
+041301Tratamento de queimados                                                                             202206
+041401Buco-maxilo-facial                                                                                  202206
+041501Múltiplas                                                                                           202206
+041601Urologia                                                                                            202206
+041701Anestesias                                                                                          202206
+041801Acessos para dialise                                                                                202206
+050101Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      202206
+050201Avaliação clínica de morte encefálica                                                               202206
+050301Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    202206
+050401Processamento de córnea/esclera                                                                     202206
+050501Transplante de tecidos e células                                                                    202206
+050601Acompanhamento de paciente no pré e pós-transplante                                                 202206
+060101Agentes anticitocinas                                                                               202206
+060201Procoagulantes em coagulopatias hereditárias                                                        202206
+060301Antiinflamatórios                                                                                   202206
+060401Acido Aminosalicilico e Similares                                                                   202206
+070101OPM auxiliares da locomoção                                                                         202206
+070201OPM em neurocirurgia                                                                                202206
+080101Incentivos                                                                                          202206
+080201Diárias                                                                                             202206
+010201Vigilancia sanitária                                                                                202206
+010102Saúde bucal                                                                                         202206
+080202Outras ações                                                                                        202206
+020102Outras formas de coleta de material                                                                 202206
+020202Exames hematológicos e hemostasia                                                                   202206
+020302Exames anatomopatológicos                                                                           202206
+020402Exames radiológicos da coluna vertebral                                                             202206
+020502Ultra-sonografias dos demais sistemas                                                               202206
+020602Tomografia do torax e membros superiores                                                            202206
+020702RM do torax e membros superiores                                                                    202206
+020802Aparelho digestivo                                                                                  202206
+020902Aparelho urinário                                                                                   202206
+021002Vias biliares                                                                                       202206
+021102Diagnóstico em cardiologia                                                                          202206
+021202Procedimentos especiais em hemoterápica                                                             202206
+021302Exames relacionados ao meio ambiente                                                                202206
+030102Atendimento/Acompanhamento em saúde do trabalhador                                                  202206
+030202Assistência fisioterapêutica em alterações oncológicas                                              202206
+030302Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             202206
+030402Quimioterapia paliativa - adulto                                                                    202206
+030502Tratamento em nefrologia em geral                                                                   202206
+030602Medicina transfusional                                                                              202206
+030702Endodontia                                                                                          202206
+030802Intoxicações e envenenamentos                                                                       202206
+030902Terapias em doenças alérgicas                                                                       202206
+040102Cirurgias de pele, tecido subcutâneo e mucosa                                                       202206
+040202Cirurgia da suprarrenal                                                                             202206
+040302Coluna e nervos periféricos                                                                         202206
+040402Cirurgia da face e do sistema estomatognático                                                       202206
+040502Músculos oculomotores                                                                               202206
+040602Cirurgia vascular                                                                                   202206
+040702Intestinos , reto e anus                                                                            202206
+040802Membros superiores                                                                                  202206
+040902Uretra                                                                                              202206
+041102Outras cirurgias relacionadas com o estado gestacional                                              202206
+041202Mediastino                                                                                          202206
+041302Reparadora em oncológica                                                                            202206
+041402Cirurgia oral                                                                                       202206
+041502Sequenciais                                                                                         202206
+041602Sistema linfático                                                                                   202206
+041802Intervençõess cirúrgicas em acessos para diálise                                                    202206
+050102Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      202206
+050302Cirurgias para transplante - doador vivo                                                            202206
+050402Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      202206
+050502Transplante de orgãos                                                                               202206
+050602Intercorrência pós transplante                                                                      202206
+060102Antagonista do glutamato                                                                            202206
+060302Imunossupressores                                                                                   202206
+060402Agentes Quelantes de Ferro                                                                          202206
+070102OPM ortopédicas                                                                                     202206
+070202OPM em cirurgia buco-maxilo-facial                                                                  202206
+010202Vigilância em saúde do trabalhador                                                                  202206
+010103Visita domiciliar                                                                                   202206
+070203OPM em ortopedia                                                                                    202206
+020203Exames sorológicos e imunológicos                                                                   202206
+020403Exames radiológicos do torax e mediastino                                                           202206
+020603Tomografia do abdomen, pelve e membros inferiores                                                   202206
+020703RM do abdomen, pelve e membros inferiores                                                           202206
+020803Aparelho endócrino                                                                                  202206
+020903Aparelho ginecológico                                                                               202206
+021103Diagnóstico cinético funcional                                                                      202206
+030103Atendimento pré-hospitalar de urgência                                                              202206
+030203Assistência fisioterapêutica em oftalmologia                                                        202206
+030303Tratamento de doenças endocrinas, metabólicas e nutricionais                                        202206
+030403Quimioterapia para controle temporário de doença - adulto                                           202206
+030703Periodontia clínica                                                                                 202206
+030803Outras consequências de causas externas                                                             202206
+030903Terapias do aparelho geniturinário                                                                  202206
+040303Tumores do sistema nervoso                                                                          202206
+040403Anomalia Crânio e bucomaxilo facial                                                                 202206
+040503Corpo vítreo, retina, coróide e esclera                                                             202206
+040603Cardiologia intervencionista                                                                        202206
+040703Pancreas, baco, figado e vias biliares                                                              202206
+040803Coluna vertebral e caixa torácica                                                                   202206
+040903Próstata e vesicula seminal                                                                         202206
+041203Pleura                                                                                              202206
+041303Reparadora para lipodistrofia                                                                       202206
+041503Politraumatizados                                                                                   202206
+041603Cabeça e pescoço                                                                                    202206
+050103Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)202206
+050303Manutenção e retirada de orgãos e tecidos para transplante                                          202206
+050403Processamento de válvula/tubo valvado cardíaco humano                                               202206
+060103Antianêmicos não hormonais                                                                          202206
+060303Imunoterápicos                                                                                      202206
+060403Agonistas da Dopamina/inibidor da prolactina                                                        202206
+070103OPM em Otorrinolaringologia.                                                                        202206
+010203Vigilância epidemiológica - vacinas                                                                 202206
+010104Alimentação e nutrição                                                                              202206
+020204Exames coprológicos                                                                                 202206
+020404Exames radiológicos da cintura escapular e dos membros superiores                                   202206
+020804Aparelho geniturinário                                                                              202206
+020904Aparelho respiratório                                                                               202206
+021104Diagnóstico em ginecologia-obstetrícia                                                              202206
+030104Outros atendimentos realizados por profissionais de níveis superior                                 202206
+030204Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   202206
+030304Tratamento de doenças do sistema nervoso central e periférico                                       202206
+030404Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           202206
+030704Moldagem/Manutenção                                                                                 202206
+030804Complicações consequentes a procedimentos em saúde                                                  202206
+030904Terapias do aparelho cardiovascular                                                                 202206
+040304Neurocirurgias vasculares                                                                           202206
+040504Cavidade orbitária e globo ocular                                                                   202206
+040604Cirurgia endovascular                                                                               202206
+040704Parede e cavidade abdominal                                                                         202206
+040804Cintura pélvica                                                                                     202206
+040904Bolsa escrotal, testículos e cordão espermático                                                     202206
+041204Parede torácica                                                                                     202206
+041304Outras cirurgias plásticas/reparadoras                                                              202206
+041504Procedimentos cirúrgicos gerais                                                                     202206
+041604Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          202206
+050104Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   202206
+050304Açõess complementares destinadas a doação de orgãos, tecidos e células.                             202206
+050404Processamento de pele humana                                                                        202206
+060104Antianêmicos hormonais                                                                              202206
+060304Reguladores de atividade hormonal - inibidores da prolactina                                        202206
+060404Agonistas seletivos dos receptores beta 2 adrenérgicos                                              202206
+070104OPM oftalmológicas                                                                                  202206
+070204OPM em assistência cardiovascular                                                                   202206
+060305Antitrombóticos                                                                                     202206
+060105Antiasmáticos                                                                                       202206
+070105OPM em gastroenterologia                                                                            202206
+070205OPM comuns                                                                                          202206
+010105Praticas integrativas/complementares                                                                202206
+020205Exames de uroanálise                                                                                202206
+020405Exames radiológicos do abdomen e pelve                                                              202206
+020805Aparelho esquelético                                                                                202206
+021105Diagnóstico em neurologia                                                                           202206
+030105Atenção domiciliar                                                                                  202206
+030205Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 202206
+030305Tratamento de doenças do aparelho da visão                                                          202206
+030405Quimioterapia adjuvante (profilática) - adulto                                                      202206
+030905Práticas integrativas e complementares                                                              202206
+040305Tratamento neurocirúrgico da dor funcional                                                          202206
+040505Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                202206
+040605Eletrofisiologia                                                                                    202206
+040805Membros inferiores                                                                                  202206
+040905Pênis                                                                                               202206
+041205Pulmão                                                                                              202206
+041605Colo-proctologia                                                                                    202206
+050105Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 202206
+060405Alcalóides naturais do ópio                                                                         202206
+060306Tensiolítico alveolar                                                                               202206
+060106Antibióticos                                                                                        202206
+070106OPM em urologia                                                                                     202206
+070206OPM em urologia                                                                                     202206
+020206Exames hormonais                                                                                    202206
+020406Exames radiológicos da cintura pélvica e dos membros inferiores                                     202206
+020806Aparelho nervoso                                                                                    202206
+021106Diagnóstico em oftalmologia                                                                         202206
+030106Consulta/Atendimento ás urgências (em geral)                                                        202206
+030206Assistência fisioterapêutica nas alterações em neurologia                                           202206
+030306Tratamento de doenças cardiovasculares                                                              202206
+030406Quimioterapia curativa - adulto                                                                     202206
+030906Acessos venosos                                                                                     202206
+040306Investigação e cirurgia da epilepsia                                                                202206
+040806Gerais                                                                                              202206
+040906Útero e anexos                                                                                      202206
+041606Ginecologia                                                                                         202206
+050106Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  202206
+060406Alimentos dietéticos isentos de fenilalanina                                                        202206
+060307Hemoderivados                                                                                       202206
+060107Antiepiléticos                                                                                      202206
+070107OPM em odontologia                                                                                  202206
+070207OPM em cirurgias oftálmicas                                                                         202206
+020207Exames toxicológicos ou de monitorização terapêutica                                                202206
+020807Aparelho respiratório                                                                               202206
+021107Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  202206
+030107Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          202206
+030207Assistência fisioterapêutica em queimados                                                           202206
+030307Tratamento de doenças do aparelho digestivo                                                         202206
+030407Quimioterapia de tumores de crianca e adolescente                                                   202206
+030907Angiologia                                                                                          202206
+040307Tratamento neuro-endovascular                                                                       202206
+040907Vagina, vulva e períneo                                                                             202206
+041607Oftalmologia                                                                                        202206
+050107Outros exames complementares para doação de orgãos, tecidos e células                               202206
+060407Aminas Terciárias                                                                                   202206
+060308Medicamentos para transplante                                                                       202206
+060408Aminoquinolinas                                                                                     202206
+070108OPM de anomalias buco-maxilo-facial                                                                 202206
+070208OPM em cirurgia plástica/reparadora                                                                 202206
+020208Exames microbiológicos                                                                              202206
+020808Aparelho hematológico                                                                               202206
+060108Antiinflamatórios                                                                                   202206
+030108Atendimento/Acompanhamento psicossocial                                                             202206
+030308Tratamento de doenças da pele e do tecido  subcutâneo                                               202206
+030408Quimioterapia - procedimentos especiais                                                             202206
+040308Neurocirurgia funcional estereotáxica                                                               202206
+041608Pele e cirurgia plástica                                                                            202206
+050108Exames complementares para pacientes transplantados                                                 202206
+021108Diagnóstico em pneumologia                                                                          202206
+060109Antiinflamatórios intestinais                                                                       202206
+060409Análogos da mostarda nitrogenada                                                                    202206
+070109Substituição/Troca em órteses/próteses                                                              202206
+070209OPM em cirurgia de otorrinolaringologia                                                             202206
+020209Exames em outros líquidos biológicos                                                                202206
+020809Outros métodos de diagnóstico em medicina nuclear in vivo                                           202206
+021109Diagnóstico em urologia                                                                             202206
+030109Atendimento/Acompanhamento em saúde do idoso                                                        202206
+030309Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               202206
+030409Medicina nuclear - terapêutica oncológica                                                           202206
+041609Ossos e partes moles                                                                                202206
+070110OPM em queimados                                                                                    202206
+030310Tratamento durante a gestação, parto e puerpério                                                    202206
+030410Gerais em oncologia                                                                                 202206
+021110Diagnóstico em psicologia-psiquiatria                                                               202206
+041610Neurocirurgia                                                                                       202206
+060410Vasopressina e Análogos                                                                             202206
+030110Atendimentos de enfermagem (em geral)                                                               202206
+070210OPM em nefrologia                                                                                   202206
+060110Antiparkinsonianos                                                                                  202206
+020210Exames de genética                                                                                  202206
+030311Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       202206
+030111Atendimento/Acompanhamento queimados                                                                202206
+021111Diagnóstico em cardiologia intervencionista                                                         202206
+020211Exames para triagem neonatal                                                                        202206
+070211OPM em queimados                                                                                    202206
+060411Análogos do hormônio liberador de gonadotrofina                                                     202206
+060111Antipsicóticos                                                                                      202206
+041611Cirurgia torácica                                                                                   202206
+020212Exames imunohematológicos                                                                           202206
+030112Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          202206
+021112Diagnóstico em traumato-ortopedia                                                                   202206
+030312Tratamentos por medicina nuclear in vivo                                                            202206
+060412Antiandrogênios                                                                                     202206
+060112Antivirais                                                                                          202206
+041612Mastologia                                                                                          202206
+070212OPM para transplantes                                                                               202206
+041613Otorrinolaringologia                                                                                202206
+030113Acompanhamento em outras especialidades                                                             202206
+030313Tratamento de pacientes sob cuidados prolongados                                                    202206
+060413Anticolinesterases                                                                                  202206
+060113Bloqueadores neuromusculares                                                                        202206
+060114Ceratolíticos sistêmicos                                                                            202206
+030114Cuidados Paliativos                                                                                 202206
+030314Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      202206
+060414Antigonadotrofinas e agentes similares                                                              202206
+060415Barbitúricos e derivados                                                                            202206
+060115Complementos alimentares para fenilcetonúricos                                                      202206
+030315Tratamento das doenças do aparelho geniturinário                                                    202206
+030316Tratamento de algumas afecçõess originadas no período neonatal                                      202206
+060116Fatores de crescimento mielóides                                                                    202206
+060416Bisfosfonados                                                                                       202206
+030317Tratamento dos transtornos mentais e comportamentais                                                202206
+060117Hipnoanalgésicos                                                                                    202206
+060417Compostos de Alumínio                                                                               202206
+060418Derivados da benzodiazepina                                                                         202206
+060118Hipolipemiantes                                                                                     202206
+030318Tratamento HIV/Aids                                                                                 202206
+060419Derivados de ácidos graxos                                                                          202206
+030319Reabilitação                                                                                        202206
+060119Imunomoduladores                                                                                    202206
+060120Imunossupressores                                                                                   202206
+060420Derivados do adamantano                                                                             202206
+060121Imunoterapicos                                                                                      202206
+060421Derivados do indol                                                                                  202206
+060122Inibidores da acetilcolinesterase                                                                   202206
+060422Derivados da succinimida                                                                            202206
+060123Mucolíticos                                                                                         202206
+060423Diazepinas, oxazepinas e tiazepinas                                                                 202206
+060124Quelantes do ferro                                                                                  202206
+060424 Enzimas                                                                                            202206
+060125Outros quelantes                                                                                    202206
+060425Fatores de estimulação de colônias                                                                  202206
+060126Reguladores da atividade hormonal-agonistas da vasopressina                                         202206
+060426Ferro trivalente, preparações parenterais                                                           202206
+060127Reguladores da atividade hormonal-analogos do GNRH                                                  202206
+060427Fibratos, Acido Nicotínico e seus derivados                                                         202206
+060128Reguladores da atividade hormonal-antiandrogênicos                                                  202206
+060428Glicocorticóides                                                                                    202206
+060429Somatostatina e Análogos                                                                            202206
+060129Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     202206
+060130Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             202206
+060430 Imunoglobulinas específicas                                                                        202206
+060131Reguladores da atividade hormonal-inibidores de prolactina                                          202206
+060431Imunoglobulinas, humana normal                                                                      202206
+060132Reguladores da atividade hormonal-hormonios de crescimento                                          202206
+060432Imunossupressores seletivos                                                                         202206
+060433Inibidores da agregação plaquetária, excl. heparina                                                 202206
+060133Reguladores da atividade hormonal-hormonios tireoidianos                                            202206
+060134Reguladores da atividade hormonal-mineralocorticóides                                               202206
+060434Inibidores da calcineurina                                                                          202206
+060135Reguladores da homeostase do cálcio                                                                 202206
+060435Inibidores da fosfodiesterase                                                                       202206
+060136Repositores enzimáticos                                                                             202206
+060436Inibidores da HMG-CoA redutase                                                                      202206
+060437Inibidores da monoamino oxidase tipo b                                                              202206
+060438Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 202206
+060439Interferonas                                                                                        202206
+060440Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      202206
+060441Medicamentos utilizados na dependência de opióides                                                  202206
+060442Mineralocorticóides                                                                                 202206
+060443Modulador seletivo de receptor de estrogênio                                                        202206
+060444Mucolíticos                                                                                         202206
+060445Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               202206
+060446Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        202206
+060447Outras preparações antianêmicas                                                                     202206
+060448Outros agentes citotóxicos                                                                          202206
+060449Outros agentes dopaminérgicos                                                                       202206
+060450Outros antiepilépticos                                                                              202206
+060451Outros antipsicóticos                                                                               202206
+060452Outros imunoestimulantes                                                                            202206
+060453Outros imunossupressores                                                                            202206
+060454Outros medicamentos do sistema nervoso                                                              202206
+060455Outros relaxantes musculares de ação periférica                                                     202206
+060456Penicilamina e agentes similares                                                                    202206
+060457Preparações de calcitonina                                                                          202206
+060458Preparações de enzimas                                                                              202206
+060459Retinóides para tratamento da acne                                                                  202206
+060460Retinóides para tratamento da psoríase                                                              202206
+060461Somatropina e agonistas da somatropina                                                              202206
+060462Vitamina D e análogos, incluido combinação dos dois                                                 202206
+060463Produtos diversos para o trato alimentar ou metabolismo                                             202206
+060464Inibidores de Protease                                                                              202206
+060465Análogos das Prostaglandinas                                                                        202206
+060466Inibidores da Anidrase Carbonica                                                                    202206
+060467Simpatomiméticos na Terapia de Glaucoma                                                             202206
+060468Anticorpos Monoclonais                                                                              202206
+060469Inibidores de Interleucinas                                                                         202206
+060470Outros Antipsoriaticos de Uso Tópico                                                                202206
+060471Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 202206
+060472Derivados do Ácido Propriônico                                                                      202206
+060473Parassimpaticomiméticos                                                                             202206
+060474Agentes Beta Bloqueadores                                                                           202206
+060475Outros Anti-hipertensivos                                                                           202206
+060476Outros Antivirais                                                                                   202206
+060477Outros Agentes Antiparatireoide                                                                     202206
+060478Insulinas Análogas de Ação Rápida de Uso Injetável                                                  202206
+060479Outras Drogas para Desordem do Sistema Músculo Esquelético                                          202206
+060480Agentes antitrombóticos                                                                             202206
+060481Outros Aminoglicosídeos                                                                             202206
+060482Inibidores do co-transportador 2 de sódio-glicose (SGLT2)                                           202206
+060483Agentes que atuam no sistema renina- angiotensina                                                   202206
+060484Outras drogas sistêmicas para doenças respiratórias obstrutivas                                     202206
+060485Adrenérgicos em combinação com anticolinérgicos, incluídas combinações triplas com corticosteroides 202206

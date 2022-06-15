@@ -1,0 +1,411 @@
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202206
+166001Água de Consumo                                                                                                                                       202206
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202206
+168001Atenção Especializada Em Doenças Raras                                                                                                                202206
+169001Urologia em Geral                                                                                                                                     202206
+170001Núcleo de Segurança do Paciente                                                                                                                       202206
+173001Recebimento e Inspeção                                                                                                                                202206
+174001Indivíduos em Geral                                                                                                                                   202206
+100001Atendimento em presídio até 100 presos                                                                                                                202206
+101001Saúde da família                                                                                                                                      202206
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202206
+103001Ambulância de transporte                                                                                                                              202206
+104001Central de Regulação de Internações Hospitalares                                                                                                      202206
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202206
+106001Testagem e aconselhamento                                                                                                                             202206
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             202206
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    202206
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202206
+110001Atenção à infertilidade                                                                                                                               202206
+111001Diagnóstico e tratamento                                                                                                                              202206
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         202206
+113001Assitência Domiciliar                                                                                                                                 202206
+114001Dentística                                                                                                                                            202206
+115001Residência terapêutica em saúde mental                                                                                                                202206
+116001Eletrofisiologia                                                                                                                                      202206
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202206
+118001Cirurgia torácica                                                                                                                                     202206
+119001Abordagem e tratamento do fumante                                                                                                                     202206
+120001Exames anatomopatológicos                                                                                                                             202206
+121001Radiologia                                                                                                                                            202206
+122001Teste Ergométrico                                                                                                                                     202206
+123001OPM auxiliares de locomoção                                                                                                                           202206
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202206
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202206
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202206
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202206
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202206
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202206
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202206
+131001Diagnóstico em oftalmologia                                                                                                                           202206
+132001Oncologia pediátrica                                                                                                                                  202206
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202206
+134001Acupuntura                                                                                                                                            202206
+135001Reabilitação Visual                                                                                                                                   202206
+136001Enteral                                                                                                                                               202206
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202206
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202206
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202206
+141001Vigilância epidemiológica                                                                                                                             202206
+142001Do aparelho digestivo                                                                                                                                 202206
+143001Transporte terrestre                                                                                                                                  202206
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202206
+145001Exames Bioquimicos                                                                                                                                    202206
+146001Diagnóstica                                                                                                                                           202206
+147001NASF 1                                                                                                                                                202206
+148001Saúde mental                                                                                                                                          202206
+149001Rim                                                                                                                                                   202206
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202206
+151001Medicina nuclear in vivo                                                                                                                              202206
+152001Atenção Básica à Populações Indígenas                                                                                                                 202206
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202206
+154001Banco de valvula cardiaca humana                                                                                                                      202206
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202206
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      202206
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202206
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202206
+159001Atenção Primária                                                                                                                                      202206
+160001Teleconsultoria Assíncrona                                                                                                                            202206
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202206
+162001ADULTO                                                                                                                                                202206
+163001NEONATAL CONVENCIONAL                                                                                                                                 202206
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            202206
+100002Atendimento em manicômio até 100 presos                                                                                                               202206
+174002Grupos Especiais                                                                                                                                      202206
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202206
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202206
+104002Cental de Regulação de Consultas e Exames                                                                                                             202206
+105002Coluna e nervos periféricos                                                                                                                           202206
+106002Diagnóstico e tratamento                                                                                                                              202206
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              202206
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202206
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202206
+110002Contracepção clínica                                                                                                                                  202206
+111002Tratamento multidrogas resistentes                                                                                                                    202206
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202206
+113002Internação Domiciliar                                                                                                                                 202206
+114002Endodontia                                                                                                                                            202206
+115002Atendimento psicossocial                                                                                                                              202206
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202206
+117002Tratamento em queimados                                                                                                                               202206
+120002Exames citopatológicos                                                                                                                                202206
+121002Ultra-sonografia                                                                                                                                      202206
+122002Teste de Holter                                                                                                                                       202206
+123002OPM ortopédicas                                                                                                                                       202206
+124002Cirurgia de glândulas endócrinas                                                                                                                      202206
+125002Farmácia Popular                                                                                                                                      202206
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202206
+128002Diagnóstico em hemoterapia                                                                                                                            202206
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202206
+131002Tratamento clínico do aparelho da visão                                                                                                               202206
+132002Hematologia                                                                                                                                           202206
+133002Diagnóstico em Pneumologia                                                                                                                            202206
+134002Fitoterapia                                                                                                                                           202206
+135002Reabilitação Intelectual                                                                                                                              202206
+136002Enteral/Parenteral                                                                                                                                    202206
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202206
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202206
+141002Vigilância sanitária                                                                                                                                  202206
+142002Do aparelho respiratório                                                                                                                              202206
+143002Transporte aéreo                                                                                                                                      202206
+145002Exames hematológicos e hemostasia                                                                                                                     202206
+146002Cirúrgica                                                                                                                                             202206
+147002NASF 2                                                                                                                                                202206
+148002AIDS                                                                                                                                                  202206
+149002Medula óssea                                                                                                                                          202206
+150002Fístula arteriovenosa com enxerto                                                                                                                     202206
+151002Medicina nuclear in vitro                                                                                                                             202206
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202206
+154002Banco de tecido musculo esqueletico                                                                                                                   202206
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202206
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     202206
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202206
+159002Atenção Básica com Saúde Bucal                                                                                                                        202206
+160002Teleconsultoria Síncrona                                                                                                                              202206
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202206
+162002NEONATAL                                                                                                                                              202206
+163002NEONATAL CANGURU                                                                                                                                      202206
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 202206
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202206
+166002Água de Ambiental                                                                                                                                     202206
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202206
+168002Referência em Doenças Raras                                                                                                                           202206
+169002Litotripsia                                                                                                                                           202206
+173002Armazenamento e Controle                                                                                                                              202206
+101002Saúde bucal MI                                                                                                                                        202206
+100003Atendimento em presídio acima de 100 presos                                                                                                           202206
+101003Saúde bucal MII                                                                                                                                       202206
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202206
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202206
+104003Central de Regulação de Urgências                                                                                                                     202206
+105003Tumores do sistema nervoso                                                                                                                            202206
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202206
+107003Terapia fonoaudiológica                                                                                                                               202206
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            202206
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202206
+110003Laqueadura                                                                                                                                            202206
+112003Parto em gestação de risco habitual                                                                                                                   202206
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202206
+114003Periodontia clínica                                                                                                                                   202206
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202206
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202206
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202206
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202206
+121003Tomografia computadorizada                                                                                                                            202206
+122003Exame Eletrocardiográfico                                                                                                                             202206
+123003OPM auditivas                                                                                                                                         202206
+125003Farmácia com manipulação homeopática                                                                                                                  202206
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202206
+128003Procedimentos especiais em hemoterapia                                                                                                                202206
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202206
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202206
+132003Oncologia clínica                                                                                                                                     202206
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202206
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202206
+135003Reabilitação Física                                                                                                                                   202206
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202206
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202206
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202206
+141003Vigilância ambiental                                                                                                                                  202206
+142003Do aparelho urinário                                                                                                                                  202206
+143003Transporte marítimo                                                                                                                                   202206
+145003Exames sorológicos e imunológicos                                                                                                                     202206
+147003NASF Intermunicipal                                                                                                                                   202206
+148003Geriátrico                                                                                                                                            202206
+149003Coração                                                                                                                                               202206
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202206
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202206
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202206
+159003Academia da Saúde                                                                                                                                     202206
+160003Segunda Opinião Formativa                                                                                                                             202206
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202206
+162003PEDIÁTRICO                                                                                                                                            202206
+163003PEDIÁTRICO                                                                                                                                            202206
+164003Dispensação de OPM Ortopédica                                                                                                                         202206
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202206
+166003Água de Hemodiálise                                                                                                                                   202206
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202206
+173003Distribuição                                                                                                                                          202206
+152004Saneamento a Populações Indígenas                                                                                                                     202206
+159004Estratégia de Saúde da Família                                                                                                                        202206
+162004QUEIMADOS                                                                                                                                             202206
+163004ADULTO                                                                                                                                                202206
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202206
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202206
+166004Água Mineral                                                                                                                                          202206
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202206
+173004Transporte                                                                                                                                            202206
+125004Dispensação de medicamentos estratégicos                                                                                                              202206
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202206
+128004Medicina transfusional                                                                                                                                202206
+130004Tratamento Nefrologia em Geral                                                                                                                        202206
+131004Projeto Olhar Brasil                                                                                                                                  202206
+132004Radioterapia                                                                                                                                          202206
+134004Práticas Corpo-mente                                                                                                                                  202206
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202206
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202206
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202206
+140004Estabilização de paciente crítico/grave                                                                                                               202206
+141004Núcleo de vigilância hospitalar                                                                                                                       202206
+142004Do aparelho ginecológico                                                                                                                              202206
+145004Exames coprológicos                                                                                                                                   202206
+147004NASF 3                                                                                                                                                202206
+148004Fibrose cística                                                                                                                                       202206
+149004Pulmão                                                                                                                                                202206
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202206
+101004Saúde da Família para a População Ribeirinha                                                                                                          202206
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202206
+105004Neurocirurgia vascular                                                                                                                                202206
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202206
+107004Diagnóstico em audiologia/otologia                                                                                                                    202206
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202206
+110004Vasectomia                                                                                                                                            202206
+112004Parto em gestação de alto risco                                                                                                                       202206
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202206
+114004Moldagem/Manutenção                                                                                                                                   202206
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202206
+116004Cirurgia vascular                                                                                                                                     202206
+121004Ressonância magnética                                                                                                                                 202206
+122004Exame Eletroencefalográfico                                                                                                                           202206
+123004OPM oftalmológicas                                                                                                                                    202206
+152005Atenção Especializada a Populações Indígenas                                                                                                          202206
+122005Teste Ergométrico por Telemedicina                                                                                                                    202206
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202206
+164005Dispensação de OPM Auditiva                                                                                                                           202206
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202206
+166005Alimentos                                                                                                                                             202206
+123005OPM em gastroenterologia                                                                                                                              202206
+125005Dispensação de medicamentos básicos                                                                                                                   202206
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202206
+130005Tratamento Diálitico Peritonial                                                                                                                       202206
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202206
+132005Oncologia cirúrgica                                                                                                                                   202206
+134005Homeopatia                                                                                                                                            202206
+135005Reabiliatação Auditiva                                                                                                                                202206
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202206
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202206
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202206
+145005Exames de uroanálise                                                                                                                                  202206
+148005Cirúrgico / Diagnóstico                                                                                                                               202206
+149005Córnea / Esclera                                                                                                                                      202206
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202206
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202206
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202206
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202206
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202206
+107005Implante Coclear                                                                                                                                      202206
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202206
+112005Centro de parto normal                                                                                                                                202206
+113005Equipe de cuidados domiciliares                                                                                                                       202206
+114005Cirurgia oral                                                                                                                                         202206
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202206
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202206
+159005Saúde Bucal                                                                                                                                           202206
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202206
+122006Teste Holter por Telemedicina                                                                                                                         202206
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202206
+166006Células, Tecidos e Órgãos                                                                                                                             202206
+123006OPM em urologia                                                                                                                                       202206
+125006Farmácia Hospitalar                                                                                                                                   202206
+126006Assistência fisioterapêutica em queimados                                                                                                             202206
+130006Tratamento em DRC                                                                                                                                     202206
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202206
+134006Termalismo/Crenoterapia                                                                                                                               202206
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202206
+140006Pronto Atendimento Clínico                                                                                                                            202206
+145006Exames hormonais                                                                                                                                      202206
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202206
+149006Fígado                                                                                                                                                202206
+101006Saúde da Família Fluvial                                                                                                                              202206
+103006Veículos de intervenção rápida                                                                                                                        202206
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202206
+105006Investigação e cirurgia de epilepsia                                                                                                                  202206
+107006Triagem Auditiva Neonatal                                                                                                                             202206
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202206
+114006Cirurgia buco-maxilo-facial                                                                                                                           202206
+115006UA Adulto                                                                                                                                             202206
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202206
+121006Radiologia intervencionista                                                                                                                           202206
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202206
+159007Atenção Primária para População Ribeirinha                                                                                                            202206
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202206
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202206
+166007Medicamentos                                                                                                                                          202206
+123007OPM em odontologia                                                                                                                                    202206
+125007Farmácia Viva                                                                                                                                         202206
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202206
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202206
+134007Antroposofia Aplicada à Saúde                                                                                                                         202206
+135007Oficina Ortopédica Fixa                                                                                                                               202206
+140007Pronto Atendimento Pediátrico                                                                                                                         202206
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202206
+149007Pâncreas                                                                                                                                              202206
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202206
+103007Outros veículos                                                                                                                                       202206
+104007Regulação Nacional de Alta Complexidade                                                                                                               202206
+105007Tratamento endovascular                                                                                                                               202206
+107007Diagnóstico em Audiologia/Otologia por Telemedicina                                                                                                   202206
+114007Atendimento à pessoa com deficiência                                                                                                                  202206
+115007UA Infantojuvenil                                                                                                                                     202206
+116007Cardiologia Clínica                                                                                                                                   202206
+121007Radiologia por telemedicina                                                                                                                           202206
+164007Dispensação de OPM Oftalmológica                                                                                                                      202206
+152008Hospitalidade Indígena                                                                                                                                202206
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202206
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           202206
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202206
+166008Saneantes Domissanitários                                                                                                                             202206
+123008OPM buco-maxilo-facial                                                                                                                                202206
+126008Diagnóstico cinético funcional                                                                                                                        202206
+134008Práticas Expressivas                                                                                                                                  202206
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              202206
+140008Pronto Atendimento Obstétrico                                                                                                                         202206
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202206
+149008Retirada de orgãos                                                                                                                                    202206
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202206
+103008Ambulância de resgate                                                                                                                                 202206
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202206
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202206
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202206
+115008Unidade de Atenção em Regime Residencial                                                                                                              202206
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202206
+121008Ultra-sonografia por telemedicina                                                                                                                     202206
+159008Consultório na Rua                                                                                                                                    202206
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202206
+122009Exame Eletroneuromiografia                                                                                                                            202206
+164009Substitução/Troca de OPM                                                                                                                              202206
+166009Produtos para a Saúde                                                                                                                                 202206
+123009Substituição/Troca em órteses/próteses                                                                                                                202206
+134009Ayurveda                                                                                                                                              202206
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202206
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202206
+145009Exames microbiológicos                                                                                                                                202206
+149009Pele                                                                                                                                                  202206
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202206
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202206
+105009Polissonografia                                                                                                                                       202206
+121009Tomografia computadorizada por telemedicina                                                                                                           202206
+159009Atenção Primária para População Prisional                                                                                                             202206
+134010Práticas Naturais                                                                                                                                     202206
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202206
+123010OPM em queimados                                                                                                                                      202206
+135010Atenção Fonoaudiológica                                                                                                                               202206
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202206
+103010Motolância                                                                                                                                            202206
+164010OPM em gastroenterologia                                                                                                                              202206
+149010Válvulas cardíacas                                                                                                                                    202206
+121010Ressonância magnética por telemedicina                                                                                                                202206
+166010Cosméticos                                                                                                                                            202206
+145010Exames em outros líquidos biológicos                                                                                                                  202206
+140010Pronto Atendimento Oftalmológico                                                                                                                      202206
+122010Exame videoeletroencefalografia                                                                                                                       202206
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202206
+123011OPM em nefrologia                                                                                                                                     202206
+122011Potenciais Evocados                                                                                                                                   202206
+121011Radiologia intervencionista por telemedicina                                                                                                          202206
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202206
+101011ESF Transitória                                                                                                                                       202206
+166011Desinfestantes                                                                                                                                        202206
+164011OPM em Urologia                                                                                                                                       202206
+149011Osteocondroligamentos                                                                                                                                 202206
+145011Exames de genética                                                                                                                                    202206
+140011Pronto Atendimento Odontológico                                                                                                                       202206
+135011Atenção Fisioterapeutica                                                                                                                              202206
+134011Práticas Manuais                                                                                                                                      202206
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202206
+123012OPM - Projeto Olhar Brasil                                                                                                                            202206
+103012Equipe Aeromédico                                                                                                                                     202206
+145012Exames para triagem neonatal                                                                                                                          202206
+121012Mamografia                                                                                                                                            202206
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202206
+134012Práticas Psicodinâmicas                                                                                                                               202206
+122012Potenciais Evocados por Telemedicina                                                                                                                  202206
+140012Pronto Socorro Pediátrico                                                                                                                             202206
+166012Imunobiológicos                                                                                                                                       202206
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202206
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202206
+101013ESB MI                                                                                                                                                202206
+140013Pronto Socorro Obstétrico                                                                                                                             202206
+166013Insumos Farmacêuticos                                                                                                                                 202206
+149013Contagem endotelial corneana                                                                                                                          202206
+121013Mamografia por Telemedicina                                                                                                                           202206
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202206
+145013Exames imunohematológicos                                                                                                                             202206
+134013Ozônioterapia                                                                                                                                         202206
+149014Acompanhamento de paciente transplantado                                                                                                              202206
+166014Material Biológico                                                                                                                                    202206
+140014Pronto Socorro Cardiovascular                                                                                                                         202206
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202206
+134014Aromaterapia                                                                                                                                          202206
+101014ESB MII                                                                                                                                               202206
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202206
+166015Sangue e Hemoderivados                                                                                                                                202206
+134015Imposição de Mãos                                                                                                                                     202206
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202206
+149016Retirada de globo ocular humano para transplante                                                                                                      202206
+166016Surtos de Toxinfecção                                                                                                                                 202206
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202206
+166017Diversos                                                                                                                                              202206
+140017Pronto Socorro Odontológico                                                                                                                           202206
+140018Pronto Socorro Oftalmológico                                                                                                                          202206
+140019Pronto Socorro Geral/Clínico                                                                                                                          202206

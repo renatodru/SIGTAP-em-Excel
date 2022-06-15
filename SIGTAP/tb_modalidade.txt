@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        202206
+02Hospitalar                                                                                          202206
+03Hospital Dia                                                                                        202206
+06Atenção Domiciliar                                                                                  202206
